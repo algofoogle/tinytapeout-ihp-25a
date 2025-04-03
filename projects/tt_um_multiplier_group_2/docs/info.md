@@ -1,16 +1,16 @@
-- [Array Multiplier](p16/info.md) by Rebecca Boadu & Sarah Herrera
-- [4-bit Array Multiplier](p17/info.md) by Minjae Kim, Jiawei Ding
-- [4-bit-array-multiplier](p18/info.md) by HenryZ-ErickR
-- [Lab B Group 1 Array Multiplier](p19/info.md) by MarcAnthony Williams & Ivy Zheng
-- [Lab B Group 10 Array Multiplier](p20/info.md) by Abhinav and Annay
-- [ECE2204 4x4 Array Multiplier](p21/info.md) by Jack Li Bill Li
-- [Array Multiplier](p22/info.md) by Jaden Daily
-- [4x4 Array Multiplier](p23/info.md) by Marisol and Shahran
-- [4 by 4 Array Multiplier](p24/info.md) by Hanyuan (Bob) Huang
-- [4-bit Multiplier](p25/info.md) by Jeremy Kang, Idris Al-Wazani
-- [Lab C 4x4 Mult-Array](p26/info.md) by Justin Morris, Alexa
-- [4-bit Multiplier](p27/info.md) by Asfaq Fahim & Sreeja Ghose
-- [4-bit-multiplier](p28/info.md) by Eric Cheung, Bethel Sisay
-- [4bit multiplier](p29/info.md) by Kylian Yan
-- [ECE-UY 2204 4x4 Array Multiplier](p30/info.md) by Jane Manalu, Isabella Menshouse, KJ Moses
-- [4-bit Multiplier](p31/info.md) by Nick Pham, Nathan Macapinlac
+- [Array Multiplier](tt_um_array_mult_structural_sarahherrera/info.md) by Rebecca Boadu & Sarah Herrera
+- [4-bit Array Multiplier](tt_um_array_mult_structural_sectionD_group3/info.md) by Minjae Kim, Jiawei Ding
+- [4-bit-array-multiplier](tt_um_arry_mult_structural/info.md) by HenryZ-ErickR
+- [Lab B Group 1 Array Multiplier](tt_um_b_0_array_multiplier/info.md) by MarcAnthony Williams & Ivy Zheng
+- [Lab B Group 10 Array Multiplier](tt_um_b_10_array_multiplier/info.md) by Abhinav and Annay
+- [ECE2204 4x4 Array Multiplier](tt_um_b_12_array_multiplier/info.md) by Jack Li Bill Li
+- [Array Multiplier](tt_um_b_2_array_multiplier/info.md) by Jaden Daily
+- [4x4 Array Multiplier](tt_um_b_6_array_multiplier/info.md) by Marisol and Shahran
+- [4 by 4 Array Multiplier](tt_um_b_8_array_multiplier/info.md) by Hanyuan (Bob) Huang
+- [4-bit Multiplier](tt_um_c13_array_mult/info.md) by Jeremy Kang, Idris Al-Wazani
+- [Lab C 4x4 Mult-Array](tt_um_c1_array_mult_structural/info.md) by Justin Morris, Alexa
+- [4-bit Multiplier](tt_um_c7_array_mult/info.md) by Asfaq Fahim & Sreeja Ghose
+- [4-bit-multiplier](tt_um_c_2_array_mult/info.md) by Eric Cheung, Bethel Sisay
+- [4bit multiplier](tt_um_c_4_4b_mult/info.md) by Kylian Yan
+- [ECE-UY 2204 4x4 Array Multiplier](tt_um_d_4_array_multiplier/info.md) by Jane Manalu, Isabella Menshouse, KJ Moses
+- [4-bit Multiplier](tt_um_four_bit_multiplier_nasan016_npham2003/info.md) by Nick Pham, Nathan Macapinlac

@@ -1,8 +1,8 @@
-- [4x4 array multiplier](p32/info.md) by Gabriela Perez, Martha McQuillan
-- [4x4 Array Multiplier](p33/info.md) by Dominic Iafrate
-- [ece2204\_4x4\_mult](p34/info.md) by Eric Wang, Alan Zhu
-- [ECE-2204 4x4 Array Multiplier](p35/info.md) by Evan Dworkin, Dante Minasyan
-- [Array Multiplier](p36/info.md) by Noah Rivera & Filip Bukowski
-- [array\_multiplier](p37/info.md) by xg2523\_cw4483
-- [ECE2204MultiplierProject](p38/info.md) by CaoKeHanMax
-- [Array Multiplier](p39/info.md) by Theodore Hua
+- [4x4 array multiplier](tt_um_m4rthaswur1d/info.md) by Gabriela Perez, Martha McQuillan
+- [4x4 Array Multiplier](tt_um_multiplier_tt09/info.md) by Dominic Iafrate
+- [ece2204\_4x4\_mult](tt_um_secA_11_nyancar_alanz23/info.md) by Eric Wang, Alan Zhu
+- [ECE-2204 4x4 Array Multiplier](tt_um_secA_group5_array_multiplier/info.md) by Evan Dworkin, Dante Minasyan
+- [Array Multiplier](tt_um_secB_15_array_multiplier/info.md) by Noah Rivera & Filip Bukowski
+- [array\_multiplier](tt_um_secd_8_array_mult/info.md) by xg2523\_cw4483
+- [ECE2204MultiplierProject](tt_um_section_d_group_fifteen_array_mult_structural/info.md) by CaoKeHanMax
+- [Array Multiplier](tt_um_tt09_array_multiplier/info.md) by Theodore Hua

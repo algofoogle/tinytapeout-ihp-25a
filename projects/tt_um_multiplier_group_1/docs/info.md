@@ -1,16 +1,16 @@
-- [4 x 4 array multiplier NuKoP](p00/info.md) by Aiden Li, Mahid Hosen
-- [4x4multiplier](p01/info.md) by hirod nazari, samarth pusegaonkar
-- [ECE2204 4x4 Array Multiplier](p02/info.md) by Jason Brandon
-- [4x4 Array Multiplier](p03/info.md) by Adrian Lopez and Jack Verdis
-- [tt09-C6-array-multiplier](p04/info.md) by Jonathan Farah and Josef Anurov
-- [4-bit multiplier](p05/info.md) by Annie Huang and Sharon Chi
-- [my\_4bit\_multiplier](p06/info.md) by Terry Mu, Omobolaji Alabi
-- [Array\_Multiplier](p07/info.md) by Taegahm Kang
-- [4-bit Multiplier](p08/info.md) by Sarp Sevil
-- [Array multiplier](p09/info.md) by Wyte wu ,Xintong Hu
-- [Array Multiplier](p10/info.md) by Leon Ha, Jegyeoung An
-- [Array Multiplier](p11/info.md) by Jeryl Ho & Justin Park
-- [4x4 Multiplier](p12/info.md) by Fajr Baig, Sahana Long
-- [4 bit array multiplier](p13/info.md) by Abdulrahman Albaoud, Joe Leighthardt
-- [ece2204 project for tapeout](p14/info.md) by Yiqiao, Geno
-- [Array Multiplier](p15/info.md) by Will Shang, Tyler Huynh
+- [4 x 4 array multiplier NuKoP](tt_um_4x4_array_multiplier_NuKoP/info.md) by Aiden Li, Mahid Hosen
+- [4x4multiplier](tt_um_4x4multiplier/info.md) by hirod nazari, samarth pusegaonkar
+- [ECE2204 4x4 Array Multiplier](tt_um_A_6_array_multiplier/info.md) by Jason Brandon
+- [4x4 Array Multiplier](tt_um_B_14_array_multiplier/info.md) by Adrian Lopez and Jack Verdis
+- [tt09-C6-array-multiplier](tt_um_C6_array_multiplier/info.md) by Jonathan Farah and Josef Anurov
+- [4-bit multiplier](tt_um_C8_array_mult/info.md) by Annie Huang and Sharon Chi
+- [my\_4bit\_multiplier](tt_um_C_1_4bit_multiplier/info.md) by Terry Mu, Omobolaji Alabi
+- [Array\_Multiplier](tt_um_LabA_Groutt_um_a_4_array_multiplier/info.md) by Taegahm Kang
+- [4-bit Multiplier](tt_um_SarpHS_array_mult/info.md) by Sarp Sevil
+- [Array multiplier](tt_um_a3_array_multiplier/info.md) by Wyte wu ,Xintong Hu
+- [Array Multiplier](tt_um_a_0_array_multiplier/info.md) by Leon Ha, Jegyeoung An
+- [Array Multiplier](tt_um_a_4_array_multiplier/info.md) by Jeryl Ho & Justin Park
+- [4x4 Multiplier](tt_um_arrayMultFajrSahana/info.md) by Fajr Baig, Sahana Long
+- [4 bit array multiplier](tt_um_array_mult_joe_leighthardt/info.md) by Abdulrahman Albaoud, Joe Leighthardt
+- [ece2204 project for tapeout](tt_um_array_mult_structural/info.md) by Yiqiao, Geno
+- [Array Multiplier](tt_um_array_mult_structural_GnahsLliw/info.md) by Will Shang, Tyler Huynh
