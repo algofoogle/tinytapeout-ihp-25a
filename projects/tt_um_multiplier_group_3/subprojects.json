@@ -27,7 +27,8 @@
         "uo[6]": "p[6]",
         "uo[7]": "p[7]"
       },
-      "docs": "https://github.com/TinyTapeout/tinytapeout-ihp-25a/blob/main/projects/tt_um_multiplier_group_3/docs/tt_um_m4rthaswur1d/info.md"
+      "docs": "https://github.com/TinyTapeout/tinytapeout-ihp-25a/blob/main/projects/tt_um_multiplier_group_3/docs/tt_um_m4rthaswur1d/info.md",
+      "repo": "https://github.com/m4rthaswur1d/tt09-secA-9-array-multiplier"
     },
     "1": {
       "macro": "tt_um_multiplier_tt09",
@@ -54,7 +55,8 @@
         "uo[6]": "p[6]",
         "uo[7]": "p[7]"
       },
-      "docs": "https://github.com/TinyTapeout/tinytapeout-ihp-25a/blob/main/projects/tt_um_multiplier_group_3/docs/tt_um_multiplier_tt09/info.md"
+      "docs": "https://github.com/TinyTapeout/tinytapeout-ihp-25a/blob/main/projects/tt_um_multiplier_group_3/docs/tt_um_multiplier_tt09/info.md",
+      "repo": "https://github.com/dom-iafrate/tt09-b-array-multiplier"
     },
     "2": {
       "macro": "tt_um_secA_11_nyancar_alanz23",
@@ -81,7 +83,8 @@
         "uo[6]": "p[6]",
         "uo[7]": "p[7]"
       },
-      "docs": "https://github.com/TinyTapeout/tinytapeout-ihp-25a/blob/main/projects/tt_um_multiplier_group_3/docs/tt_um_secA_11_nyancar_alanz23/info.md"
+      "docs": "https://github.com/TinyTapeout/tinytapeout-ihp-25a/blob/main/projects/tt_um_multiplier_group_3/docs/tt_um_secA_11_nyancar_alanz23/info.md",
+      "repo": "https://github.com/NyanCar/tt09-secA-11-array-multiplier"
     },
     "3": {
       "macro": "tt_um_secA_group5_array_multiplier",
@@ -108,7 +111,8 @@
         "uo[6]": "p6",
         "uo[7]": "p7"
       },
-      "docs": "https://github.com/TinyTapeout/tinytapeout-ihp-25a/blob/main/projects/tt_um_multiplier_group_3/docs/tt_um_secA_group5_array_multiplier/info.md"
+      "docs": "https://github.com/TinyTapeout/tinytapeout-ihp-25a/blob/main/projects/tt_um_multiplier_group_3/docs/tt_um_secA_group5_array_multiplier/info.md",
+      "repo": "https://github.com/evandworkin/tt09-secA-group5-array-multiplier"
     },
     "4": {
       "macro": "tt_um_secB_15_array_multiplier",
@@ -135,7 +139,8 @@
         "uo[6]": "p[6]",
         "uo[7]": "p[7]"
       },
-      "docs": "https://github.com/TinyTapeout/tinytapeout-ihp-25a/blob/main/projects/tt_um_multiplier_group_3/docs/tt_um_secB_15_array_multiplier/info.md"
+      "docs": "https://github.com/TinyTapeout/tinytapeout-ihp-25a/blob/main/projects/tt_um_multiplier_group_3/docs/tt_um_secB_15_array_multiplier/info.md",
+      "repo": "https://github.com/noahrivera/tt09-secB-15-array-multiplier"
     },
     "5": {
       "macro": "tt_um_secd_8_array_mult",
@@ -162,7 +167,8 @@
         "uo[6]": "p[6]",
         "uo[7]": "p[7]"
       },
-      "docs": "https://github.com/TinyTapeout/tinytapeout-ihp-25a/blob/main/projects/tt_um_multiplier_group_3/docs/tt_um_secd_8_array_mult/info.md"
+      "docs": "https://github.com/TinyTapeout/tinytapeout-ihp-25a/blob/main/projects/tt_um_multiplier_group_3/docs/tt_um_secd_8_array_mult/info.md",
+      "repo": "https://github.com/gguan1/tt09-D-8-array-multiplier"
     },
     "6": {
       "macro": "tt_um_section_d_group_fifteen_array_mult_structural",
@@ -189,7 +195,8 @@
         "uo[6]": "uo[6]",
         "uo[7]": "uo[7]"
       },
-      "docs": "https://github.com/TinyTapeout/tinytapeout-ihp-25a/blob/main/projects/tt_um_multiplier_group_3/docs/tt_um_section_d_group_fifteen_array_mult_structural/info.md"
+      "docs": "https://github.com/TinyTapeout/tinytapeout-ihp-25a/blob/main/projects/tt_um_multiplier_group_3/docs/tt_um_section_d_group_fifteen_array_mult_structural/info.md",
+      "repo": "https://github.com/Maximum-Developer/tt09-sec-D-15-array-multiplier"
     },
     "7": {
       "macro": "tt_um_tt09_array_multiplier",
@@ -216,7 +223,8 @@
         "uo[6]": "p[6]",
         "uo[7]": "p[7]"
       },
-      "docs": "https://github.com/TinyTapeout/tinytapeout-ihp-25a/blob/main/projects/tt_um_multiplier_group_3/docs/tt_um_tt09_array_multiplier/info.md"
+      "docs": "https://github.com/TinyTapeout/tinytapeout-ihp-25a/blob/main/projects/tt_um_multiplier_group_3/docs/tt_um_tt09_array_multiplier/info.md",
+      "repo": "https://github.com/th3474/tt09-array-multiplier"
     }
   }
 }

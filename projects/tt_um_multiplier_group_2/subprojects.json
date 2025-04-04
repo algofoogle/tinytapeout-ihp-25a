@@ -27,7 +27,8 @@
         "uo[6]": "p[6]",
         "uo[7]": "p[7]"
       },
-      "docs": "https://github.com/TinyTapeout/tinytapeout-ihp-25a/blob/main/projects/tt_um_multiplier_group_2/docs/tt_um_array_mult_structural_sarahherrera/info.md"
+      "docs": "https://github.com/TinyTapeout/tinytapeout-ihp-25a/blob/main/projects/tt_um_multiplier_group_2/docs/tt_um_array_mult_structural_sarahherrera/info.md",
+      "repo": "https://github.com/sarahherrera/tt09-sec1-group2-array-multiplier"
     },
     "1": {
       "macro": "tt_um_array_mult_structural_sectionD_group3",
@@ -54,7 +55,8 @@
         "uo[6]": "",
         "uo[7]": ""
       },
-      "docs": "https://github.com/TinyTapeout/tinytapeout-ihp-25a/blob/main/projects/tt_um_multiplier_group_2/docs/tt_um_array_mult_structural_sectionD_group3/info.md"
+      "docs": "https://github.com/TinyTapeout/tinytapeout-ihp-25a/blob/main/projects/tt_um_multiplier_group_2/docs/tt_um_array_mult_structural_sectionD_group3/info.md",
+      "repo": "https://github.com/MinjaeKim09/tt09-sec-Section-D-Group-3-array-multiplier"
     },
     "2": {
       "macro": "tt_um_arry_mult_structural",
@@ -81,7 +83,8 @@
         "uo[6]": "p[6]",
         "uo[7]": "p[7]"
       },
-      "docs": "https://github.com/TinyTapeout/tinytapeout-ihp-25a/blob/main/projects/tt_um_multiplier_group_2/docs/tt_um_arry_mult_structural/info.md"
+      "docs": "https://github.com/TinyTapeout/tinytapeout-ihp-25a/blob/main/projects/tt_um_multiplier_group_2/docs/tt_um_arry_mult_structural/info.md",
+      "repo": "https://github.com/hz3536/tt09-sec-A---10--array-multiplier"
     },
     "3": {
       "macro": "tt_um_b_0_array_multiplier",
@@ -108,7 +111,8 @@
         "uo[6]": "p[6]",
         "uo[7]": "p[7]"
       },
-      "docs": "https://github.com/TinyTapeout/tinytapeout-ihp-25a/blob/main/projects/tt_um_multiplier_group_2/docs/tt_um_b_0_array_multiplier/info.md"
+      "docs": "https://github.com/TinyTapeout/tinytapeout-ihp-25a/blob/main/projects/tt_um_multiplier_group_2/docs/tt_um_b_0_array_multiplier/info.md",
+      "repo": "https://github.com/MarcAnthonyWilliams/tt09-secB-1-array-multiplier"
     },
     "4": {
       "macro": "tt_um_b_10_array_multiplier",
@@ -135,7 +139,8 @@
         "uo[6]": "p[6]",
         "uo[7]": "p[7]"
       },
-      "docs": "https://github.com/TinyTapeout/tinytapeout-ihp-25a/blob/main/projects/tt_um_multiplier_group_2/docs/tt_um_b_10_array_multiplier/info.md"
+      "docs": "https://github.com/TinyTapeout/tinytapeout-ihp-25a/blob/main/projects/tt_um_multiplier_group_2/docs/tt_um_b_10_array_multiplier/info.md",
+      "repo": "https://github.com/abhinavdangri/tt09-b-10-array-multiplier-main"
     },
     "5": {
       "macro": "tt_um_b_12_array_multiplier",
@@ -162,7 +167,8 @@
         "uo[6]": "uo_out[6]",
         "uo[7]": "uo_out[7]"
       },
-      "docs": "https://github.com/TinyTapeout/tinytapeout-ihp-25a/blob/main/projects/tt_um_multiplier_group_2/docs/tt_um_b_12_array_multiplier/info.md"
+      "docs": "https://github.com/TinyTapeout/tinytapeout-ihp-25a/blob/main/projects/tt_um_multiplier_group_2/docs/tt_um_b_12_array_multiplier/info.md",
+      "repo": "https://github.com/JackLCHN/tt-09-secB-12-array-multiplier"
     },
     "6": {
       "macro": "tt_um_b_2_array_multiplier",
@@ -189,7 +195,8 @@
         "uo[6]": "p[6]",
         "uo[7]": "p[7]"
       },
-      "docs": "https://github.com/TinyTapeout/tinytapeout-ihp-25a/blob/main/projects/tt_um_multiplier_group_2/docs/tt_um_b_2_array_multiplier/info.md"
+      "docs": "https://github.com/TinyTapeout/tinytapeout-ihp-25a/blob/main/projects/tt_um_multiplier_group_2/docs/tt_um_b_2_array_multiplier/info.md",
+      "repo": "https://github.com/jadaily/tt09-b-2-array-multiplier"
     },
     "7": {
       "macro": "tt_um_b_6_array_multiplier",
@@ -216,7 +223,8 @@
         "uo[6]": "p[6]",
         "uo[7]": "p[7]"
       },
-      "docs": "https://github.com/TinyTapeout/tinytapeout-ihp-25a/blob/main/projects/tt_um_multiplier_group_2/docs/tt_um_b_6_array_multiplier/info.md"
+      "docs": "https://github.com/TinyTapeout/tinytapeout-ihp-25a/blob/main/projects/tt_um_multiplier_group_2/docs/tt_um_b_6_array_multiplier/info.md",
+      "repo": "https://github.com/marisolpark/tt09-labb-6-array-multiplier"
     },
     "8": {
       "macro": "tt_um_b_8_array_multiplier",
@@ -243,7 +251,8 @@
         "uo[6]": "p[6]",
         "uo[7]": "p[7]"
       },
-      "docs": "https://github.com/TinyTapeout/tinytapeout-ihp-25a/blob/main/projects/tt_um_multiplier_group_2/docs/tt_um_b_8_array_multiplier/info.md"
+      "docs": "https://github.com/TinyTapeout/tinytapeout-ihp-25a/blob/main/projects/tt_um_multiplier_group_2/docs/tt_um_b_8_array_multiplier/info.md",
+      "repo": "https://github.com/BHMCRK1016/tt09-b-8-array-multiplier"
     },
     "9": {
       "macro": "tt_um_c13_array_mult",
@@ -270,7 +279,8 @@
         "uo[6]": "p[6]",
         "uo[7]": "p[7]"
       },
-      "docs": "https://github.com/TinyTapeout/tinytapeout-ihp-25a/blob/main/projects/tt_um_multiplier_group_2/docs/tt_um_c13_array_mult/info.md"
+      "docs": "https://github.com/TinyTapeout/tinytapeout-ihp-25a/blob/main/projects/tt_um_multiplier_group_2/docs/tt_um_c13_array_mult/info.md",
+      "repo": "https://github.com/jjk9914/tt09-secC-13-array-multiplier"
     },
     "10": {
       "macro": "tt_um_c1_array_mult_structural",
@@ -297,7 +307,8 @@
         "uo[6]": "p[6]",
         "uo[7]": "p[7]"
       },
-      "docs": "https://github.com/TinyTapeout/tinytapeout-ihp-25a/blob/main/projects/tt_um_multiplier_group_2/docs/tt_um_c1_array_mult_structural/info.md"
+      "docs": "https://github.com/TinyTapeout/tinytapeout-ihp-25a/blob/main/projects/tt_um_multiplier_group_2/docs/tt_um_c1_array_mult_structural/info.md",
+      "repo": "https://github.com/Justin-tech10/tt09-c-1-array-multiplier"
     },
     "11": {
       "macro": "tt_um_c7_array_mult",
@@ -324,7 +335,8 @@
         "uo[6]": "p[6]",
         "uo[7]": "p[7]"
       },
-      "docs": "https://github.com/TinyTapeout/tinytapeout-ihp-25a/blob/main/projects/tt_um_multiplier_group_2/docs/tt_um_c7_array_mult/info.md"
+      "docs": "https://github.com/TinyTapeout/tinytapeout-ihp-25a/blob/main/projects/tt_um_multiplier_group_2/docs/tt_um_c7_array_mult/info.md",
+      "repo": "https://github.com/Electric-man/tt09-secC-7-array-multiplier"
     },
     "12": {
       "macro": "tt_um_c_2_array_mult",
@@ -351,7 +363,8 @@
         "uo[6]": "p[6]",
         "uo[7]": "p[7]"
       },
-      "docs": "https://github.com/TinyTapeout/tinytapeout-ihp-25a/blob/main/projects/tt_um_multiplier_group_2/docs/tt_um_c_2_array_mult/info.md"
+      "docs": "https://github.com/TinyTapeout/tinytapeout-ihp-25a/blob/main/projects/tt_um_multiplier_group_2/docs/tt_um_c_2_array_mult/info.md",
+      "repo": "https://github.com/ecccc0/tt09-secC-2-array-multiplier"
     },
     "13": {
       "macro": "tt_um_c_4_4b_mult",
@@ -378,7 +391,8 @@
         "uo[6]": "p[6]",
         "uo[7]": "p[7]"
       },
-      "docs": "https://github.com/TinyTapeout/tinytapeout-ihp-25a/blob/main/projects/tt_um_multiplier_group_2/docs/tt_um_c_4_4b_mult/info.md"
+      "docs": "https://github.com/TinyTapeout/tinytapeout-ihp-25a/blob/main/projects/tt_um_multiplier_group_2/docs/tt_um_c_4_4b_mult/info.md",
+      "repo": "https://github.com/dadadadasdaxacw/tt09-sec-c---4--array-multiplier"
     },
     "14": {
       "macro": "tt_um_d_4_array_multiplier",
@@ -405,7 +419,8 @@
         "uo[6]": "p[6]",
         "uo[7]": "p[7]"
       },
-      "docs": "https://github.com/TinyTapeout/tinytapeout-ihp-25a/blob/main/projects/tt_um_multiplier_group_2/docs/tt_um_d_4_array_multiplier/info.md"
+      "docs": "https://github.com/TinyTapeout/tinytapeout-ihp-25a/blob/main/projects/tt_um_multiplier_group_2/docs/tt_um_d_4_array_multiplier/info.md",
+      "repo": "https://github.com/janemanalu/tt09-secd-4-array-multiplier"
     },
     "15": {
       "macro": "tt_um_four_bit_multiplier_nasan016_npham2003",
@@ -432,7 +447,8 @@
         "uo[6]": "p[6]",
         "uo[7]": "p[7]"
       },
-      "docs": "https://github.com/TinyTapeout/tinytapeout-ihp-25a/blob/main/projects/tt_um_multiplier_group_2/docs/tt_um_four_bit_multiplier_nasan016_npham2003/info.md"
+      "docs": "https://github.com/TinyTapeout/tinytapeout-ihp-25a/blob/main/projects/tt_um_multiplier_group_2/docs/tt_um_four_bit_multiplier_nasan016_npham2003/info.md",
+      "repo": "https://github.com/nasan016/tt09-secD-02-array-multiplier"
     }
   }
 }

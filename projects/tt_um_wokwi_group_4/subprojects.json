@@ -27,7 +27,8 @@
         "uo[6]": "OUT6",
         "uo[7]": "OUT7"
       },
-      "docs": "https://github.com/TinyTapeout/tinytapeout-ihp-25a/blob/main/projects/tt_um_wokwi_group_4/docs/tt_um_wokwi_413387120998931457/info.md"
+      "docs": "https://github.com/TinyTapeout/tinytapeout-ihp-25a/blob/main/projects/tt_um_wokwi_group_4/docs/tt_um_wokwi_413387120998931457/info.md",
+      "repo": "https://github.com/dshadoff/tt-wokwi-ds01"
     },
     "1": {
       "macro": "tt_um_wokwi_413387352465821697",
@@ -54,7 +55,8 @@
         "uo[6]": "NIC",
         "uo[7]": "NIC"
       },
-      "docs": "https://github.com/TinyTapeout/tinytapeout-ihp-25a/blob/main/projects/tt_um_wokwi_group_4/docs/tt_um_wokwi_413387352465821697/info.md"
+      "docs": "https://github.com/TinyTapeout/tinytapeout-ihp-25a/blob/main/projects/tt_um_wokwi_group_4/docs/tt_um_wokwi_413387352465821697/info.md",
+      "repo": "https://github.com/ferret-guy/momo-layout"
     },
     "2": {
       "macro": "tt_um_wokwi_413919531169918977",
@@ -81,7 +83,8 @@
         "uo[6]": "OUT6",
         "uo[7]": "OUT7"
       },
-      "docs": "https://github.com/TinyTapeout/tinytapeout-ihp-25a/blob/main/projects/tt_um_wokwi_group_4/docs/tt_um_wokwi_413919531169918977/info.md"
+      "docs": "https://github.com/TinyTapeout/tinytapeout-ihp-25a/blob/main/projects/tt_um_wokwi_group_4/docs/tt_um_wokwi_413919531169918977/info.md",
+      "repo": "https://github.com/fbastaki/FB"
     },
     "3": {
       "macro": "tt_um_wokwi_413919540668975105",
@@ -108,7 +111,8 @@
         "uo[6]": "OUT6",
         "uo[7]": "OUT7"
       },
-      "docs": "https://github.com/TinyTapeout/tinytapeout-ihp-25a/blob/main/projects/tt_um_wokwi_group_4/docs/tt_um_wokwi_413919540668975105/info.md"
+      "docs": "https://github.com/TinyTapeout/tinytapeout-ihp-25a/blob/main/projects/tt_um_wokwi_group_4/docs/tt_um_wokwi_413919540668975105/info.md",
+      "repo": "https://github.com/OwenR227/TapeoutChip"
     },
     "4": {
       "macro": "tt_um_wokwi_413919972072132609",
@@ -135,7 +139,8 @@
         "uo[6]": "OUT6",
         "uo[7]": "OUT7"
       },
-      "docs": "https://github.com/TinyTapeout/tinytapeout-ihp-25a/blob/main/projects/tt_um_wokwi_group_4/docs/tt_um_wokwi_413919972072132609/info.md"
+      "docs": "https://github.com/TinyTapeout/tinytapeout-ihp-25a/blob/main/projects/tt_um_wokwi_group_4/docs/tt_um_wokwi_413919972072132609/info.md",
+      "repo": "https://github.com/ooftheloofer/Andrew-Vo---Repository"
     },
     "5": {
       "macro": "tt_um_wokwi_413920033033205761",
@@ -162,7 +167,8 @@
         "uo[6]": "OUT6",
         "uo[7]": "OUT7"
       },
-      "docs": "https://github.com/TinyTapeout/tinytapeout-ihp-25a/blob/main/projects/tt_um_wokwi_group_4/docs/tt_um_wokwi_413920033033205761/info.md"
+      "docs": "https://github.com/TinyTapeout/tinytapeout-ihp-25a/blob/main/projects/tt_um_wokwi_group_4/docs/tt_um_wokwi_413920033033205761/info.md",
+      "repo": "https://github.com/fhuerta20/tapeout"
     },
     "6": {
       "macro": "tt_um_wokwi_413920370058172417",
@@ -189,7 +195,8 @@
         "uo[6]": "OUT6",
         "uo[7]": "OUT7"
       },
-      "docs": "https://github.com/TinyTapeout/tinytapeout-ihp-25a/blob/main/projects/tt_um_wokwi_group_4/docs/tt_um_wokwi_413920370058172417/info.md"
+      "docs": "https://github.com/TinyTapeout/tinytapeout-ihp-25a/blob/main/projects/tt_um_wokwi_group_4/docs/tt_um_wokwi_413920370058172417/info.md",
+      "repo": "https://github.com/N8rBeans/TinyTapeout"
     },
     "7": {
       "macro": "tt_um_wokwi_413920825278643201",
@@ -216,7 +223,8 @@
         "uo[6]": "OUT6",
         "uo[7]": "OUT7"
       },
-      "docs": "https://github.com/TinyTapeout/tinytapeout-ihp-25a/blob/main/projects/tt_um_wokwi_group_4/docs/tt_um_wokwi_413920825278643201/info.md"
+      "docs": "https://github.com/TinyTapeout/tinytapeout-ihp-25a/blob/main/projects/tt_um_wokwi_group_4/docs/tt_um_wokwi_413920825278643201/info.md",
+      "repo": "https://github.com/aalmutair/Mohammad"
     },
     "8": {
       "macro": "tt_um_wokwi_414107691971107841",
@@ -243,7 +251,8 @@
         "uo[6]": "OUT6",
         "uo[7]": "OUT7"
       },
-      "docs": "https://github.com/TinyTapeout/tinytapeout-ihp-25a/blob/main/projects/tt_um_wokwi_group_4/docs/tt_um_wokwi_414107691971107841/info.md"
+      "docs": "https://github.com/TinyTapeout/tinytapeout-ihp-25a/blob/main/projects/tt_um_wokwi_group_4/docs/tt_um_wokwi_414107691971107841/info.md",
+      "repo": "https://github.com/stevenabrego/TT-Workshop-StevenAbrego"
     },
     "9": {
       "macro": "tt_um_wokwi_414120157271867393",
@@ -270,7 +279,8 @@
         "uo[6]": "OUT6",
         "uo[7]": "OUT7"
       },
-      "docs": "https://github.com/TinyTapeout/tinytapeout-ihp-25a/blob/main/projects/tt_um_wokwi_group_4/docs/tt_um_wokwi_414120157271867393/info.md"
+      "docs": "https://github.com/TinyTapeout/tinytapeout-ihp-25a/blob/main/projects/tt_um_wokwi_group_4/docs/tt_um_wokwi_414120157271867393/info.md",
+      "repo": "https://github.com/ana1251/FourBitAdder-Anahit"
     },
     "10": {
       "macro": "tt_um_wokwi_414120207283716097",
@@ -297,7 +307,8 @@
         "uo[6]": "",
         "uo[7]": ""
       },
-      "docs": "https://github.com/TinyTapeout/tinytapeout-ihp-25a/blob/main/projects/tt_um_wokwi_group_4/docs/tt_um_wokwi_414120207283716097/info.md"
+      "docs": "https://github.com/TinyTapeout/tinytapeout-ihp-25a/blob/main/projects/tt_um_wokwi_group_4/docs/tt_um_wokwi_414120207283716097/info.md",
+      "repo": "https://github.com/Koeng101/TinyTapeoutFullAdder"
     },
     "11": {
       "macro": "tt_um_wokwi_414120357164073985",
@@ -324,7 +335,8 @@
         "uo[6]": "",
         "uo[7]": ""
       },
-      "docs": "https://github.com/TinyTapeout/tinytapeout-ihp-25a/blob/main/projects/tt_um_wokwi_group_4/docs/tt_um_wokwi_414120357164073985/info.md"
+      "docs": "https://github.com/TinyTapeout/tinytapeout-ihp-25a/blob/main/projects/tt_um_wokwi_group_4/docs/tt_um_wokwi_414120357164073985/info.md",
+      "repo": "https://github.com/jmx1e/tt09-wokwi-jamin"
     },
     "12": {
       "macro": "tt_um_wokwi_414120583702696961",
@@ -351,7 +363,8 @@
         "uo[6]": "",
         "uo[7]": ""
       },
-      "docs": "https://github.com/TinyTapeout/tinytapeout-ihp-25a/blob/main/projects/tt_um_wokwi_group_4/docs/tt_um_wokwi_414120583702696961/info.md"
+      "docs": "https://github.com/TinyTapeout/tinytapeout-ihp-25a/blob/main/projects/tt_um_wokwi_group_4/docs/tt_um_wokwi_414120583702696961/info.md",
+      "repo": "https://github.com/ATOMiNATiON/wokwi-temp"
     },
     "13": {
       "macro": "tt_um_wokwi_414121281003682817",
@@ -378,7 +391,8 @@
         "uo[6]": "OUT6",
         "uo[7]": "OUT7"
       },
-      "docs": "https://github.com/TinyTapeout/tinytapeout-ihp-25a/blob/main/projects/tt_um_wokwi_group_4/docs/tt_um_wokwi_414121281003682817/info.md"
+      "docs": "https://github.com/TinyTapeout/tinytapeout-ihp-25a/blob/main/projects/tt_um_wokwi_group_4/docs/tt_um_wokwi_414121281003682817/info.md",
+      "repo": "https://github.com/navi2311/workshop"
     },
     "14": {
       "macro": "tt_um_wokwi_414124843472659457",
@@ -405,7 +419,8 @@
         "uo[6]": "",
         "uo[7]": ""
       },
-      "docs": "https://github.com/TinyTapeout/tinytapeout-ihp-25a/blob/main/projects/tt_um_wokwi_group_4/docs/tt_um_wokwi_414124843472659457/info.md"
+      "docs": "https://github.com/TinyTapeout/tinytapeout-ihp-25a/blob/main/projects/tt_um_wokwi_group_4/docs/tt_um_wokwi_414124843472659457/info.md",
+      "repo": "https://github.com/Kandel76/tapeout"
     },
     "15": null
   }
